@@ -9,3 +9,4 @@ total 4
 -rwxr--r-- 1 omogbolahan omogbolahan 78 Sep  6 16:41 7-file
 -rw-r--r-- 1 omogbolahan omogbolahan 42 Sep  5 20:09 README.md
 -rw-r--r-- 1 omogbolahan omogbolahan  0 Sep  6 17:03 tester.txt
+-rw-r--r-- 1 omogbolahan omogbolahan  0 Sep  6 17:03 tester.txt
