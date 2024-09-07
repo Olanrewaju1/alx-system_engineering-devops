@@ -1,0 +1,11 @@
+total 4
+-rwxr--r-- 1 omogbolahan omogbolahan 32 Sep  5 20:05 0-hello_world
+-rwxr--r-- 1 omogbolahan omogbolahan 28 Sep  5 20:14 1-confused_smiley
+-rwxr--r-- 1 omogbolahan omogbolahan 28 Sep  6 08:10 2-hellofile
+-rwxr--r-- 1 omogbolahan omogbolahan 39 Sep  6 08:14 3-twofiles
+-rwxr--r-- 1 omogbolahan omogbolahan 35 Sep  6 08:18 4-lastlines
+-rwxr--r-- 1 omogbolahan omogbolahan 35 Sep  6 08:20 5-firstlines
+-rwxr--r-- 1 omogbolahan omogbolahan 44 Sep  6 08:38 6-third_line
+-rwxr--r-- 1 omogbolahan omogbolahan 78 Sep  6 16:41 7-file
+-rw-r--r-- 1 omogbolahan omogbolahan 42 Sep  5 20:09 README.md
+-rw-r--r-- 1 omogbolahan omogbolahan  0 Sep  6 17:03 tester.txt
